@@ -29,8 +29,6 @@ Under 1MB. Zero performance impact on browser speed. Works directly in Chrome, E
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://homebasedigital.gumroad.com/l/xenwlj)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/9B6eVd26He2Mg886fycZG2V)** — Secure checkout
 
 ## Installation
@@ -42,7 +40,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://homebasedigital.gumroad.com/l/xenwlj)
 
 ## License
 
